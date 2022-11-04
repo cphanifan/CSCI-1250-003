@@ -1,0 +1,15 @@
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\ShelterCats\ShelterCats\obj\Debug\net6.0\ShelterCats.csproj.AssemblyReference.cache
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\ShelterCats\ShelterCats\obj\Debug\net6.0\ShelterCats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\ShelterCats\ShelterCats\obj\Debug\net6.0\ShelterCats.AssemblyInfoInputs.cache
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\ShelterCats\ShelterCats\obj\Debug\net6.0\ShelterCats.AssemblyInfo.cs
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\ShelterCats\ShelterCats\obj\Debug\net6.0\ShelterCats.csproj.CoreCompileInputs.cache
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\ShelterCats\ShelterCats\bin\Debug\net6.0\ShelterCats.exe
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\ShelterCats\ShelterCats\bin\Debug\net6.0\ShelterCats.deps.json
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\ShelterCats\ShelterCats\bin\Debug\net6.0\ShelterCats.runtimeconfig.json
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\ShelterCats\ShelterCats\bin\Debug\net6.0\ShelterCats.dll
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\ShelterCats\ShelterCats\bin\Debug\net6.0\ShelterCats.pdb
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\ShelterCats\ShelterCats\obj\Debug\net6.0\ShelterCats.dll
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\ShelterCats\ShelterCats\obj\Debug\net6.0\refint\ShelterCats.dll
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\ShelterCats\ShelterCats\obj\Debug\net6.0\ShelterCats.pdb
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\ShelterCats\ShelterCats\obj\Debug\net6.0\ShelterCats.genruntimeconfig.cache
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\ShelterCats\ShelterCats\obj\Debug\net6.0\ref\ShelterCats.dll

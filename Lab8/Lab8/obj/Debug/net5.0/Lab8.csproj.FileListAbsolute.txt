@@ -1,0 +1,16 @@
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab8\Lab8\bin\Debug\net5.0\Lab8.exe
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab8\Lab8\bin\Debug\net5.0\Lab8.deps.json
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab8\Lab8\bin\Debug\net5.0\Lab8.runtimeconfig.json
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab8\Lab8\bin\Debug\net5.0\Lab8.runtimeconfig.dev.json
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab8\Lab8\bin\Debug\net5.0\Lab8.dll
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab8\Lab8\bin\Debug\net5.0\Lab8.pdb
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab8\Lab8\obj\Debug\net5.0\Lab8.csproj.AssemblyReference.cache
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab8\Lab8\obj\Debug\net5.0\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab8\Lab8\obj\Debug\net5.0\Lab8.AssemblyInfoInputs.cache
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab8\Lab8\obj\Debug\net5.0\Lab8.AssemblyInfo.cs
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab8\Lab8\obj\Debug\net5.0\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab8\Lab8\obj\Debug\net5.0\Lab8.dll
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab8\Lab8\obj\Debug\net5.0\refint\Lab8.dll
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab8\Lab8\obj\Debug\net5.0\Lab8.pdb
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab8\Lab8\obj\Debug\net5.0\Lab8.genruntimeconfig.cache
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab8\Lab8\obj\Debug\net5.0\ref\Lab8.dll
