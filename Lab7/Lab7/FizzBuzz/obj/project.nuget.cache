@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tVBAJlDa1npGLeNjqFFalGYPDwhVbw7bNaTiOUoGwxTvUZoWzrztOq52aKuflw8BQj62I2wf2SMDWeYqWULjgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cian Hanifan\\Downloads\\Lab7\\Lab7\\FizzBuzz\\FizzBuzz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cian Hanifan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Cian Hanifan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Cian Hanifan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Cian Hanifan\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
