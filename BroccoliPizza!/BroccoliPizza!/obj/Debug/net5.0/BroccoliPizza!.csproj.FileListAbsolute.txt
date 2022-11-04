@@ -1,0 +1,16 @@
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\BroccoliPizza!\BroccoliPizza!\bin\Debug\net5.0\BroccoliPizza!.exe
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\BroccoliPizza!\BroccoliPizza!\bin\Debug\net5.0\BroccoliPizza!.deps.json
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\BroccoliPizza!\BroccoliPizza!\bin\Debug\net5.0\BroccoliPizza!.runtimeconfig.json
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\BroccoliPizza!\BroccoliPizza!\bin\Debug\net5.0\BroccoliPizza!.runtimeconfig.dev.json
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\BroccoliPizza!\BroccoliPizza!\bin\Debug\net5.0\BroccoliPizza!.dll
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\BroccoliPizza!\BroccoliPizza!\bin\Debug\net5.0\BroccoliPizza!.pdb
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\BroccoliPizza!\BroccoliPizza!\obj\Debug\net5.0\BroccoliPizza!.csproj.AssemblyReference.cache
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\BroccoliPizza!\BroccoliPizza!\obj\Debug\net5.0\BroccoliPizza!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\BroccoliPizza!\BroccoliPizza!\obj\Debug\net5.0\BroccoliPizza!.AssemblyInfoInputs.cache
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\BroccoliPizza!\BroccoliPizza!\obj\Debug\net5.0\BroccoliPizza!.AssemblyInfo.cs
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\BroccoliPizza!\BroccoliPizza!\obj\Debug\net5.0\BroccoliPizza!.csproj.CoreCompileInputs.cache
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\BroccoliPizza!\BroccoliPizza!\obj\Debug\net5.0\BroccoliPizza!.dll
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\BroccoliPizza!\BroccoliPizza!\obj\Debug\net5.0\refint\BroccoliPizza!.dll
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\BroccoliPizza!\BroccoliPizza!\obj\Debug\net5.0\BroccoliPizza!.pdb
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\BroccoliPizza!\BroccoliPizza!\obj\Debug\net5.0\BroccoliPizza!.genruntimeconfig.cache
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\BroccoliPizza!\BroccoliPizza!\obj\Debug\net5.0\ref\BroccoliPizza!.dll

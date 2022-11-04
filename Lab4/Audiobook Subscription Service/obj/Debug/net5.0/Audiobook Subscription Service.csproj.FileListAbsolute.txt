@@ -1,0 +1,16 @@
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab4\Audiobook Subscription Service\bin\Debug\net5.0\Audiobook Subscription Service.exe
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab4\Audiobook Subscription Service\bin\Debug\net5.0\Audiobook Subscription Service.deps.json
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab4\Audiobook Subscription Service\bin\Debug\net5.0\Audiobook Subscription Service.runtimeconfig.json
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab4\Audiobook Subscription Service\bin\Debug\net5.0\Audiobook Subscription Service.runtimeconfig.dev.json
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab4\Audiobook Subscription Service\bin\Debug\net5.0\Audiobook Subscription Service.dll
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab4\Audiobook Subscription Service\bin\Debug\net5.0\Audiobook Subscription Service.pdb
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab4\Audiobook Subscription Service\obj\Debug\net5.0\Audiobook Subscription Service.csproj.AssemblyReference.cache
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab4\Audiobook Subscription Service\obj\Debug\net5.0\Audiobook Subscription Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab4\Audiobook Subscription Service\obj\Debug\net5.0\Audiobook Subscription Service.AssemblyInfoInputs.cache
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab4\Audiobook Subscription Service\obj\Debug\net5.0\Audiobook Subscription Service.AssemblyInfo.cs
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab4\Audiobook Subscription Service\obj\Debug\net5.0\Audiobook Subscription Service.csproj.CoreCompileInputs.cache
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab4\Audiobook Subscription Service\obj\Debug\net5.0\Audiobook Subscription Service.dll
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab4\Audiobook Subscription Service\obj\Debug\net5.0\refint\Audiobook Subscription Service.dll
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab4\Audiobook Subscription Service\obj\Debug\net5.0\Audiobook Subscription Service.pdb
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab4\Audiobook Subscription Service\obj\Debug\net5.0\Audiobook Subscription Service.genruntimeconfig.cache
+C:\Users\HANIFAN\OneDrive - East Tennessee State University\Lab4\Audiobook Subscription Service\obj\Debug\net5.0\ref\Audiobook Subscription Service.dll
